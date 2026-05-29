@@ -54,9 +54,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=bilal3110\&theme=github_dark\&hide_border=true\&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=bilal3110&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true)
 
-![](https://streak-stats.demolab.com?user=bilal3110\&theme=github-dark\&hide_border=true)
+![](https://streak-stats.demolab.com?user=bilal3110&theme=github-dark&hide_border=true&mode=weekly)
 
 ---
 
