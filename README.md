@@ -1,10 +1,17 @@
+<div align="center">
+  
 # Bilal Aqeel
-
-### Full Stack Developer | Laravel & Vue.js
-
-Building scalable business applications, automation systems, and AI-powered SaaS products.
-
-I focus on creating software that solves real operational problems instead of just making pretty interfaces.
+ 
+### Full-Stack Developer · Freelancer · Builder
+ 
+`Laravel` `Vue.js` `MySQL` · Building software that works in the real world.
+ 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bilalaqeel.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-aqeel-b7556321b/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bilalaqeel.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://bilaldeveloper.vercel.app)
+ 
+</div>
 
 ---
 
@@ -45,26 +52,6 @@ I focus on creating software that solves real operational problems instead of ju
 
 ---
 
-## 📌 Featured Projects
-
-### PartsFinder
-
-Multi-vendor automotive marketplace with supplier management, inquiry routing, invoicing, and WhatsApp integration.
-
-### QurbaniCare
-
-Qurbani donation and meat distribution management system with analytics and tracking dashboard.
-
-### Plant Recognition System
-
-AI-powered plant recognition application using Python and machine learning.
-
-### Imperial Recruitment System
-
-Ottoman Empire-inspired recruitment and management platform.
-
----
-
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=bilal3110\&theme=github_dark\&hide_border=true\&show_icons=true)
@@ -73,12 +60,3 @@ Ottoman Empire-inspired recruitment and management platform.
 
 ---
 
-## 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat\&logo=vercel\&logoColor=white)](https://bilaldeveloper.vercel.app)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/bilal-aqeel-b7556321b)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat\&logo=instagram\&logoColor=white)](https://instagram.com/bilalaqeel.dev)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:bilalaqeel.dev@gmail.com)
